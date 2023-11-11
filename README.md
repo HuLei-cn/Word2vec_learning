@@ -8,4 +8,4 @@
  
 注：还可做主题词提取，优化任务效果。
 
-更多任务细节见**[Word2vec词向量、可视化实战学习](https://zhuanlan.zhihu.com/p/610288225)**
+更多任务细节见[Word2vec词向量、可视化实战学习](https://zhuanlan.zhihu.com/p/610288225)
